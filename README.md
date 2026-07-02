@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Jaala Sami (I also go by Lola) and I'm a mechanical engineering major with a special interest in the automotive and robotics industry! :D
 
 <!--
 **JaalaSami/JaalaSami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
