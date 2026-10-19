@@ -1,4 +1,4 @@
-  ![Image Alt](https://github.com/JaalaSami/JaalaSami/blob/eab845b314ca37fbfded3eba82e68d06860097e1/download%20(4).jpeg)
+  ![Image Alt](https://github.com/JaalaSami/JaalaSami/blob/ae0eeea7da046c669cdceb2e6e36492aec289154/banner%20png.png)
 ## Hi there 👋 
 My name is Jaala Sami (I also go by Lola) and I'm a Mechanical Engineering major with a special interest in the Automotive and Robotics industry! :D
 
