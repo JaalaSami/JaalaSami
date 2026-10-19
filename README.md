@@ -1,4 +1,6 @@
-  ![Image Alt](https://github.com/JaalaSami/JaalaSami/blob/ae0eeea7da046c669cdceb2e6e36492aec289154/banner%20png.png)
+<p align="center">
+  <img src="(https://github.com/JaalaSami/JaalaSami/blob/ae0eeea7da046c669cdceb2e6e36492aec289154/banner%20png.png" alt="Creation of Adam Bionic Hand" width="100%">
+</p>
 ## Hi there 👋 
 My name is Jaala Sami (I also go by Lola) and I'm a Mechanical Engineering major with a special interest in the Automotive and Robotics industry! :D
 
